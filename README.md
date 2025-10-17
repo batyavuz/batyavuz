@@ -8,7 +8,7 @@ Yaratıcı fikirleri oynanabilir deneyimlere dönüştürmeyi seviyorum. ⚡
 
 ### 🧠 Hakkımda
 - 🎓 Doğuş Üniversitesi Dijital Oyun Tasarımı 3. sınıf öğrencisiyim.  
-- 👾 2025-2026 yılı GDG On Campus Mobil Takım Kaptanıyım.  
+- 👾 GDG On Campus Mobil Takım Kaptanıyım.  
 - 🎮 Oyun geliştirme, uygulama tasarımı ve kullanıcı deneyimi alanlarında çalışıyorum.  
 - 🔥 “Bir fikri olabildiğince kısa sürede gerçeğe dönüştürmek” en sevdiğim şey.  
 
@@ -36,10 +36,21 @@ Yaratıcı fikirleri oynanabilir deneyimlere dönüştürmeyi seviyorum. ⚡
 
 ---
 
-### 📫 İletişim
-📧 **E-posta:** yyzz.batuhan@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/batuhan-yavuz-847803262](https://www.linkedin.com/in/batuhan-yavuz-847803262/)  
-🎮 **itch.io:** [batyavuz.itch.io](https://batyavuz.itch.io/)
+### 🎮 Projelerimden Bazıları
+
+| 🎯 Proje | 📝 Açıklama | ⚙️ Teknoloji |
+|----------|-------------|--------------|
+| **Ruhların Radyosu** | 3D psikolojik korku oyunu. Zihinsel travmaların sembolik temsillerini işler. | Unity (URP), C# |
+| **Alkol Defteri** | Firebase tabanlı alkol takip uygulaması, istatistik ve nostalji sistemiyle. | Flutter, Firebase |
+| **Hooked!** | Balığını yakala, zamanlamanı konuştur ve suların ustası ol!  | Unity |
+| **MindMirror AI** | Haftalık ruh hali takibi ve yapay zekâ destekli günlük asistanı. | Flutter, Gemini API |
+
 
 ---
 
+### 📫 İletişim
+📧 **E-posta:** yyzz.batuhan@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/batuhan-yavuz-847803262](https://linkedin.com/in/batuhan-yavuz-847803262)  
+🎮 **itch.io:** [batyavuz.itch.io](https://batyavuz.itch.io/)
+
+---
