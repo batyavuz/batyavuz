@@ -49,7 +49,7 @@ Yaratıcı fikirleri oynanabilir deneyimlere dönüştürmeyi seviyorum. ⚡
 ---
 
 ### 📫 İletişim
-📧 **E-posta:** yyzz.batuhan@gmail.com  
+📧 **E-posta:** yvzz.batuhan@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/batuhan-yavuz-847803262](https://linkedin.com/in/batuhan-yavuz-847803262)  
 🎮 **itch.io:** [batyavuz.itch.io](https://batyavuz.itch.io/)
 
